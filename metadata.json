@@ -1,0 +1,6 @@
+{
+  "name": "Kural AAC - Assistive Communication & Sign to Voice",
+  "description": "Premium, accessible AAC communication web application with bilingual Tamil & English symbol boards, real-time sign language recognition, and natural voice assistant.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
